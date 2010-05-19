@@ -1,6 +1,6 @@
 # CME
 
-Ruby wrapper to access settlement market data from the Chicago Mercantile Exchange (CME)  [http://www.cmegroup.com/market-data/settlements/](http://www.cmegroup.com/market-data/settlements/)
+Ruby wrapper to access settlement market data from the Chicago Mercantile Exchange [(CME Group)](http://www.cmegroup.com/market-data/settlements/)
 
 ## Installation
 
