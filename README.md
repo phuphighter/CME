@@ -12,7 +12,7 @@ As a plugin (in your Rails directory):
     
 ### Dependencies
 
-http://github.com/sandofsky/csvscan
+[CSVScan](http://github.com/sandofsky/csvscan)
     
 #### Examples
 
